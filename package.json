@@ -1,7 +1,7 @@
 {
   "name": "PL-BOT",
-  "version": "3.8.7",
-  "main": "dist/3e905819cda269a8.js",
+  "version": "4.0.0",
+  "main": "dist/3d7ea5b3c3ecd9e6.js",
   "description": "",
   "author": "",
   "license": "ISC",
@@ -9,7 +9,7 @@
   
   "scripts": {
     "build": "tsc",
-    "start": "node dist/3e905819cda269a8.js"
+    "start": "node dist/3d7ea5b3c3ecd9e6.js"
   },
 
   "dependencies": {
@@ -23,7 +23,7 @@
     "pino": "^9.5.0",
     "pino-pretty": "^13.0.0",
     "qrcode-terminal": "^0.12.0",
-    "ruhend-scraper": "^8.0.3"
+    "ruhend-scraper": "^8.0.5"
   },
 
   "devDependencies": {
